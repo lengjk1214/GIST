@@ -126,6 +126,7 @@ python3 train.py --dataset colorectal --test_only 0 --save_path ../checkpoint/co
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Tutorials (nanostring for example)
+To reproduce the results in our paper, please download the [model weight](https://1drv.ms/u/c/67e32d5e4f1e8156/EWX27vT_SRFIvx57inLh9bgBcE7n8ZM79n9kUSYQBDnEnQ?e=VTVuK5).
 1. Create Patch-level model(CTransPath and UNI)
 ```
 from ctran import ctranspath
